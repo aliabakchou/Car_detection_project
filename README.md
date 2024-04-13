@@ -4,3 +4,5 @@ the parts of the project are the following :
    - detect the car plate
    - determine the car coordinates
    - communicate the output to the server
+
+Check the part Project to get the project tests.
